@@ -1,4 +1,0 @@
-# gh-pages-playground
-
-test
-
